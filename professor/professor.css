@@ -43,3 +43,21 @@
 .semlink{
     text-decoration: none
 }
+
+.selecao:hover{
+  background-color: lightskyblue;
+}
+
+.selecao1:hover{
+  background-color: lightgreen;
+}
+
+.selecao2:hover{
+  background-color: lightyellow;
+}
+
+.selecao3:hover{
+  background-color: black;
+  color: yellow;
+  font-size: larger;
+}
