@@ -9,4 +9,37 @@
 .espaco{
     justify-content: space-around;
 }
-    
+
+.fontemenu{
+  font-family: "Iceberg", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fontetitulo{
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fontesubtitulo{
+  font-family: "Freckle Face", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fonte{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.maiscula{
+    text-transform: uppercase
+}
+
+.semlink{
+    text-decoration: none
+}
