@@ -34,7 +34,10 @@
   font-style: normal;
 }
 
-
+.fonte1{
+  color: black;
+  background-color: red;
+}
 
 .maiscula{
     text-transform: uppercase
