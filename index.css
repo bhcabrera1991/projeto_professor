@@ -64,7 +64,8 @@
 }
 
 .semlink{
-    text-decoration: none
+    text-decoration: none;
+    color: aliceblue;
 }
 
 .selecao:hover{
