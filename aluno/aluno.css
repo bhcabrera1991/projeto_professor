@@ -3,6 +3,17 @@
 }
 
 .centro{
+    justify-content: center;
+    align-items: center; 
+}
+
+.espaco{
+    justify-content: space-around;
+}
+
+
+
+.centro{
     justify-content: center; 
 }
 
@@ -39,12 +50,22 @@
   background-color: red;
 }
 
+.fonte2{
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  
+  
+}
+
+
 .maiscula{
     text-transform: uppercase
 }
 
 .semlink{
-    text-decoration: none
+    text-decoration: none;
+    color: aliceblue;
 }
 
 .selecao:hover{
@@ -64,3 +85,4 @@
   color: yellow;
   font-size: larger;
 }
+

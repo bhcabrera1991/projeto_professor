@@ -3,7 +3,8 @@
 }
 
 .centro{
-    justify-content: center; 
+    justify-content: center;
+    align-items: center; 
 }
 
 .espaco{
@@ -11,10 +12,6 @@
 }
 
 
-
-.borda{
-    border: 1px solid red;
-}
 
 .centro{
     justify-content: center; 
@@ -53,12 +50,22 @@
   background-color: red;
 }
 
+.fonte2{
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  
+  
+}
+
+
 .maiscula{
     text-transform: uppercase
 }
 
 .semlink{
-    text-decoration: none
+    text-decoration: none;
+    color: aliceblue;
 }
 
 .selecao:hover{
