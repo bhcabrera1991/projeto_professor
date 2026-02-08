@@ -12,11 +12,6 @@
 }
 
 
-
-.centro{
-    justify-content: center; 
-}
-
 .espaco{
     justify-content: space-around;
 }
@@ -40,9 +35,9 @@
 }
 
 .fonte{
-  font-family: "Bebas Neue", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+  text-transform: capitalize;
+  color: blue;
+  
 }
 
 .fonte1{
@@ -54,18 +49,19 @@
   font-family: "Julius Sans One", sans-serif;
   font-weight: 900;
   font-style: normal;
-  
+  text-transform: capitalize;
   
 }
 
 
 .maiscula{
-    text-transform: uppercase
+    text-transform: capitalize;
 }
 
 .semlink{
     text-decoration: none;
     color: aliceblue;
+  
 }
 
 .selecao:hover{
