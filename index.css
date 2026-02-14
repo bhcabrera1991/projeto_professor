@@ -65,7 +65,9 @@
 }
 
 .selecao:hover{
-  background-color: lightskyblue;
+  background-color: black;
+  color: aliceblue;
+  
 }
 
 .selecao1:hover{
